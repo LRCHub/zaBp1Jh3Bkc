@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "BUDS MONTAGE",
+  "base_artist": "舐達麻",
+  "createdAt": "2025-12-28T01:51:15.667616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BUDS MONTAGE",
+      "artist": "DELTA9KID",
+      "has_synced": true,
+      "path": "select/01_BUDS_MONTAGE_DELTA9KID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BUDS MONTAGE",
+      "artist": "NAMEDARUMAAZ",
+      "has_synced": true,
+      "path": "select/02_BUDS_MONTAGE_NAMEDARUMAAZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BUDS MONTAGE",
+      "artist": "NAMEDARUMA",
+      "has_synced": true,
+      "path": "select/03_BUDS_MONTAGE_NAMEDARUMA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BUDS MONTAGE",
+      "artist": "舐達麻, BADSAIKUSH, DELTA9KID, GPLANTS",
+      "has_synced": true,
+      "path": "select/04_BUDS_MONTAGE_舐達麻,_BADSAIKUSH,_DELTA9KID,_GPLANTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BUDS MONTAGE",
+      "artist": "舐達麻",
+      "has_synced": true,
+      "path": "select/05_BUDS_MONTAGE_舐達麻.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUDS MONTAGE",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_BUDS_MONTAGE_舐達麻.txt"
+    }
+  ]
+}
